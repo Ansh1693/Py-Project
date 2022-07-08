@@ -1,6 +1,4 @@
-#MADE BY
-#TANISHKA PASBOLA 12A 31
-#ANSH GOYAL 12A 7
+
 import mysql.connector
 import pandas as pd
 import random
